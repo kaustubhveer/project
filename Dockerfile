@@ -1,4 +1,3 @@
-
 FROM php:7.4-apache
 
 # Install necessary PHP extensions and dependencies
